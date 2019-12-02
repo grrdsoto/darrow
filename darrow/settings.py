@@ -70,6 +70,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'darrow.wsgi.application'
+ASGI_APPLICATION = 'darrow.routing.application'
 
 
 # Database
@@ -121,7 +122,9 @@ USE_TZ = True
 
 
 STATIC_URL = '/static/'
-ASGI_APPLICATION = 'darrow.routing.application'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static')
+]
 CHANNEL_LAYERS = {
     'default': {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
