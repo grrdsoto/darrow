@@ -1,1 +1,1 @@
-web: gunicorn darrow.wsgi
+web: uvicorn darrow.asgi
