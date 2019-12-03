@@ -1,1 +1,1 @@
-web: gunicorn darrow.asgi
+web: gunicorn darrow.wsgi
