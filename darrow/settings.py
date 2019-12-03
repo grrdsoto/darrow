@@ -70,6 +70,8 @@ TEMPLATES = [
     },
 ]
 
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 WSGI_APPLICATION = 'darrow.wsgi.application'
 ASGI_APPLICATION = 'darrow.routing.application'
 
