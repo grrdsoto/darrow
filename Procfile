@@ -1,1 +1,1 @@
-web: uvicorn darrow.asgi
+web: gunicorn darrow.asgi
