@@ -1,4 +1,4 @@
-# Proejct Darrow
+# Project Darrow
 
 This creative project was created for GSTR 410 taught by Dr. Tyler Sergent. This is a webapp that changes topics within 3 chatrooms on a daily basis and allows users to chat freely within the application. The idea of this project is to showcase the power of anonymity by allowing users to anonymously send messages in a public chat. The class focuses on radical religions, and I wanted to show a sneak peek into what a chat of a radical religious group online.
 ## Getting Started
@@ -28,7 +28,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Used Github. :)
 
 ## Authors
 
