@@ -13,7 +13,7 @@ What things you need to install the software and how to install them
 Python 3.5 and up
 ```
 # Demo
-![local test!](darrow/chatting.gif)
+![](chatting.gif)
 
 ## Built With
 
