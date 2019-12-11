@@ -4,9 +4,9 @@ This creative project was created for GSTR 410 taught by Dr. Tyler Sergent. This
 ## Getting Started
 
 1. Clone the repo.
-2. Run ```pip freeze > requirements.txt.```
 2. Create a virtual environment
-3. Run ```python manage.py runserver```
+3. Run ```pip freeze > requirements.txt.```
+4. Run ```python manage.py runserver```
 ### Prerequisites
 
 What things you need to install the software and how to install them
@@ -20,7 +20,7 @@ Python 3.5 and up
 ## Built With
 
 * [Django](djangoproject.com) - The web framework used
-Python 3.7
+* Python 3.7
 
 ## Contributing
 
